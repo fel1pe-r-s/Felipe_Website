@@ -34,5 +34,16 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "Sou um desenvolvedor front-end apaixonado por criar experi\u00eancias digitais excepcionais. Me dedico a construir interfaces r\u00e1pidas, acess\u00edveis, visualmente atraentes e responsivas, s...",
+  "keywords": [
+    "css",
+    "docker",
+    "markdown",
+    "nextjs",
+    "node",
+    "react",
+    "tailwind",
+    "typescript"
+  ]
 }
